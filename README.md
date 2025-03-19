@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Pedram!
 
-<!--
-**pedramm7/pedramm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cybersecurity Master's Student**  
+💻 **Background in IT Engineering**  
+🔧 **Skills:** Linux, Python, Networking  
+📞 **Work:** IT Tech 
 
-Here are some ideas to get you started:
+I am passionate about exploring the world of cybersecurity and continuously enhancing my skills in Linux systems, Python scripting, and networking. With a solid foundation in IT Engineering and hands-on technical support experience, I aim to bridge the gap between technology and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** Advanced cybersecurity principles, ethical hacking, and cryptography 
+💡 **Interests:** Network security, threat detection, and cryptography  
+📫 **How to reach me:** https://www.linkedin.com/in/pedramm7/  
+🚀 **Looking for:** Student jobs in IT to apply my skills and gain practical industry experience
