@@ -9,5 +9,5 @@ I am passionate about exploring the world of cybersecurity and continuously enha
 
 🌱 **Currently learning:** Advanced cybersecurity principles, ethical hacking, and cryptography 
 💡 **Interests:** Peneteration Testing, threat detection, and cryptography  
-📫 **How to reach me:** https://www.linkedin.com/in/pedramm7/  
+📫 **How to reach me:** https://www.linkedin.com/in/it7th/
 🚀 **Looking for:** Student jobs in IT to apply my skills and gain practical industry experience
